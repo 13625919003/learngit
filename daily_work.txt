@@ -24,3 +24,5 @@ conda activate /datayes/lin.wang/vir_env/muss
 
 /mnt/lin.wang/cc_net-main
 
+git file change test
+
