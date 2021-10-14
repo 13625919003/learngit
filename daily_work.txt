@@ -1,0 +1,26 @@
+jupyter notebook --port=8888
+http://localhost:8889/?token=c0b61685cff7a51ced7b8d9014036fcdc827f3667969ec87
+host: 10.21.210.28
+user/passwd: lin.wang/datayes@123
+注意数据存储不要在home下，存储在/datayes/lin.wang/muss-main/scripts下。
+https://github.com/facebookresearch/cc_net
+镜像
+
+https://pypi.mirrors.ustc.edu.cn/simple
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
+kenlm-0.0.0-py3.7-linux-x86_64.egg
+tar xzvf kenlm-master.tar.gz
+
+
+/datayes/lin.wang/muss-main/scripts/warc.paths.gz
+
+rz 
+sz  -y 文件名xxx
+解压 
+conda activate /datayes/lin.wang/vir_env/muss
+
+/datayes/lin.wang/muss-main/scripts/data
+
+/mnt/lin.wang/cc_net-main
+
